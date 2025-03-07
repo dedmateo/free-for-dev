@@ -3,6 +3,9 @@
 Developers and Open Source authors now have many services offering free tuioiasoiasivas joao aoasoinas Sov sadovi aodsvi iers, but finding them all takes time to make informed decisions.
 
 This is a list of software (SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
+ubsv9bs0bsdoibds ibadfvij afvij afvibaoina qiuafij asdvI SDVIJ SPIJ Soasins👍`
+
+SaaS
 
 The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.
 
