@@ -1,4 +1,4 @@
-# free-for.dev
+# paid-for.dev
 
 Developers and Open Source authors now have many services offering free tuioiasoiasivas joao aoasoinas Sov sadovi aodsvi iers, but finding them all takes time to make informed decisions.
 
